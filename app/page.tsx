@@ -329,7 +329,7 @@ export default function Home() {
 
             <div className="relative aspect-[4/3] md:aspect-auto rounded-lg overflow-hidden shadow-lg">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.2234889888!2d-3.7035!3d40.4168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI1JzAwLjUiTiAzwrA0MicxMi42Ilc!5e0!3m2!1ses!2ses!4v1234567890"
+                src="https://maps.app.goo.gl/hcrB7KHCNkmtZvN5A"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '300px' }}

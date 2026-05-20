@@ -386,7 +386,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Dirección</p>
-                  <p className="text-sm text-muted-foreground">Calle Gran Vía 123, Madrid</p>
+                  <p className="text-sm text-muted-foreground">La Almunia de Doña Godina, Zaragoza</p>
                 </div>
               </div>
 
@@ -403,7 +403,7 @@ export default function Home() {
 
             <div className="relative aspect-[4/3] md:aspect-auto rounded-lg overflow-hidden shadow-lg reveal-right">
               <iframe
-                src="https://maps.app.goo.gl/hcrB7KHCNkmtZvN5A"
+                src="https://maps.google.com/maps?q=La%20Almunia%20de%20Do%C3%B1a%20Godina&t=&z=15&ie=UTF8&iwloc=&output=embed"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '300px' }}

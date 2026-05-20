@@ -329,7 +329,8 @@ export default function Home() {
 
             <div className="relative aspect-[4/3] md:aspect-auto rounded-lg overflow-hidden shadow-lg">
               <iframe
-                src="https://maps.app.goo.gl/hcrB7KHCNkmtZvN5A"
+                src="<iframe
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2892.207847097811!2d-1.374566!3d41.476457!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5a4f6c0c7b2c5f%3A0x4b8c1b0f3e2e3d6!2sLa%20Almunia%20de%20Do%C3%B1a%20Godina%2C%2050300%20Zaragoza!5e0!3m2!1ses!2ses!4v1700000000000!5m2!1ses!2ses"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '300px' }}

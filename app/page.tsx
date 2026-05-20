@@ -312,7 +312,7 @@ export default function Home() {
                 </div>
                 <div>
                   <p className="font-semibold text-foreground">Dirección</p>
-                  <p className="text-sm text-muted-foreground">Calle Gran Vía 123, Madrid</p>
+                  <p className="text-sm text-muted-foreground">La Almunia de Doña Godina</p>
                 </div>
               </div>
 
@@ -348,11 +348,11 @@ export default function Home() {
       <footer className="py-8 bg-foreground">
         <div className="max-w-6xl mx-auto px-6 text-center">
           <p className="font-serif text-xl font-bold mb-2 text-background">Studio Hair</p>
-          <p className="text-sm text-muted">© 2024 Studio Hair. Todos los derechos reservados.</p>
+          <p className="text-sm text-muted">© 2026 Studio Hair. Todos los derechos reservados.</p>
           <p className="text-xs text-muted/60 mt-2">
             Hecho por{" "}
             <a
-              href="https://zovvostudio.com"
+              href="zovvostudio.vercel.app"
               target="_blank"
               rel="noopener noreferrer"
               className="text-accent hover:underline transition-colors"
@@ -362,6 +362,5 @@ export default function Home() {
           </p>
         </div>
       </footer>
-    </main>
   )
 }

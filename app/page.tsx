@@ -329,7 +329,7 @@ export default function Home() {
 
             <div className="relative aspect-[4/3] md:aspect-auto rounded-lg overflow-hidden shadow-lg">
               <iframe
-                src="https://maps.app.goo.gl/hcrB7KHCNkmtZvN5A"
+                src="https://maps.app.goo.gl/Tvi5sTceTBLeUXex8"
                 width="100%"
                 height="100%"
                 style={{ border: 0, minHeight: '300px' }}
